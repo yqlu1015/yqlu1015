@@ -13,24 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello World
 <!-- knock code pictures 敲代码的图片 -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-</div>
-
-<div align="center">
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img height=150 src="https://github.com/Beauchamp-West/Beauchamp-West/blob/main/IMG_1996.JPG" /><br>
+  <p style="font-family:times,serif;font-size:30pt">Good Night 🌙</p>
 </div>
 
 ### GitHub Stats
 <div align="center">
-  <!-- GitHub 数据统计 -->
   <img align="" height=180 src="https://github-readme-stats-git-master-beauchamp-wests-projects.vercel.app/api?username=Beauchamp-West&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&theme=default&hide=" />
   <img align="" height=180 src="https://github-readme-stats-git-master-beauchamp-wests-projects.vercel.app/api/top-langs/?username=Beauchamp-West&hide_title=false&hide_border=false&layout=compact&langs_count=6&theme=default" />
   <img align="" src="https://github-readme-stats-git-master-beauchamp-wests-projects.vercel.app/api/wakatime?username=leo_lu&hide_border=false&layout=compact&lang_count=4" /><br>
