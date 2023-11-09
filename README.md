@@ -12,5 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Beauchamp-West&hide_title=true&hide_border=true&show_icons=true&theme=default" /> </div>
+### Leo Lu's GitHub Stats
+<div align="center">
+<!-- GitHub 数据统计 -->
+  <img align="" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Beauchamp-West&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=default" />
+  <img align="" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Beauchamp-West&hide_title=false&hide_border=true&layout=compact&langs_count=4&theme=default" />
+  <img align="" heihgt="180px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Beauchamp-West" /><br><br>
+</div>
