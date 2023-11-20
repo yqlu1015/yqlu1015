@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 ### Wakatime Stats
 <div align="center">
   <a href="https://wakatime.com">
-    <img height=300 src="https://wakatime.com/share/@leo_lu/0c2efad9-1391-4c0e-a801-b7f9fd9dab8e.svg" /></a>
+    <img height=300 src="https://wakatime.com/share/@leo_lu/a615843f-b3fc-457f-b3cc-e154b7b6d69e.svg" /></a>
   <a href="https://wakatime.com">
-    <img height=300 src="https://wakatime.com/share/@leo_lu/0860f3bd-806d-461a-a0d4-b8b3e3fbe5bb.svg" /></a>
+    <img height=300 src="https://wakatime.com/share/@leo_lu/2af2a8ee-3c7a-4745-a10a-f6951b6fdf23.svg" /></a>
   <a href="https://wakatime.com">
-    <img height=300 src="https://wakatime.com/share/@leo_lu/c50ee081-957f-4cf7-bfc3-8d74ca58e97b.svg" /></a>
+    <img height=300 src="https://wakatime.com/share/@leo_lu/b29f5b13-230c-4cce-bfd6-4bbd8d33aa8b.svg" /></a>
   <a href="https://wakatime.com">
-    <img height=300 src="https://wakatime.com/share/@leo_lu/ae4f0d89-9e07-4df2-a71d-3c1302c9bcc8.svg" /></a>
+    <img height=300 src="https://wakatime.com/share/@leo_lu/f9a9d3ed-c5a5-4b2b-bfc8-462cd04bac87.svg" /></a>
 </div>
 
 <!-- profile logo 个人资料徽标 -->
