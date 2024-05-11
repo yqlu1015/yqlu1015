@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 <!--
-[![Leo's GitHub stats card](https://github-readme-stats.vercel.app/api?username=Beauchamp-West)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beauchamp-West&layout=compact)
+[![Leo's GitHub stats card](https://github-readme-stats.vercel.app/api?username=yqlu1015)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yqlu1015&layout=compact)
 -->
 <div align="center">
   <img align="" height=180 src="https://github-readme-stats.vercel.app/api?username=Beauchamp-West&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&theme=default&hide=" />
