@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- knock code pictures 敲代码的图片 -->
 <div align="center">
   <img height=150 src="https://github.com/Beauchamp-West/Beauchamp-West/blob/main/IMG_1996.JPG" /><br>
   <p style="font-family:times,serif;font-size:30pt">Good Night 🌙</p>
